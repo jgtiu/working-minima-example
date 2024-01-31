@@ -1,2 +1,3 @@
 # working-minima-example
-#test
+
+Note: the root site must be deployed.
